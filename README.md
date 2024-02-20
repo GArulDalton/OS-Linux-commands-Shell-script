@@ -53,7 +53,7 @@ cat < file2
 
 
 # Comparing Files
-cmp file1 file2
+c+mp file1 file2
 ## OUTPUT
  
 comm file1 file2
